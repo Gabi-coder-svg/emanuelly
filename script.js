@@ -48,7 +48,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 },
                 { 
                     id: 2, 
-                    nome: "masturbando ate gozar 💦", 
+                    nome: "masturbando até gozar 💦", 
                     preco: "25.00", 
                     checkoutLink: "https://pay.cakto.com.br/9DHfhEU" 
                 },
